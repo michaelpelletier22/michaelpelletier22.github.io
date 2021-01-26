@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: New Description
+title: Michael's Github Webpage
+description: Michael Pelletier is a 
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
