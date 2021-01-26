@@ -1,6 +1,6 @@
 ---
 title: Michael's Github Webpage
-description: Michael Pelletier is a 
+description: Michael Pelletier is a MSBA candidate at the University of William and Mary. Go Tribe!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
