@@ -7,4 +7,5 @@ Here is a folder where I've started to collect and analyze data regarding the Ru
 - 
 
 Here is my analysis of the data I have collected so far.
-- [HTML Version](
+- [HTML Version](Github Jupyter Placeholder.html)
+- [HTML Version](Github Jupyter Placeholder.ipynb)
