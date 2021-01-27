@@ -1,6 +1,7 @@
 ---
 Title: My Fantasy Football Analysis
 Description: I am a avid sports fan. This folder contains my efforts to apply what I learn in school torwards one of my biggest hobbies: Fantasy Football.
+
 ---
 
 Here is a folder where I've started to collect and analyze data regarding the Runningback position.
