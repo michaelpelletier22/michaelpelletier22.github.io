@@ -7,4 +7,4 @@ Here is some analysis of the data I have collected so far.
 - [HTML Version](/Github Jupyter Placeholder.html)
 - [Downloadable Version](/Github Jupyter Placeholder.ipynb)
 
-To view some of my other work, [click here](/https://github.com/michaelpelletier22/sample/).
+To view some of my other work, [click here](/https://github.com/michaelpelletier22/sample). 
