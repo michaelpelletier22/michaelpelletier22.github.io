@@ -7,4 +7,4 @@ This is content I will be developing throughout the summer:
 
 - [Fantasy Football Research](/Fantasy Football/index.md)
 
-![Meet Michael]()
+![Meet Michael](/football image.png)
