@@ -1,6 +1,6 @@
 ---
 Title: My Fantasy Football Analysis
-Description: I am a avid sports fan. This folder contains my efforts to apply what I learn in school torwards one of my biggest hobbies: Fantasy Football.
+Description: I am an avid sports fan. This folder contains my efforts to apply what I learn in school torwards one of my biggest hobbies: Fantasy Football.
 
 ---
 
